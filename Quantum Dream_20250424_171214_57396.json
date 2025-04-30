@@ -1,0 +1,17 @@
+{
+    "title": "Quantum Dream",
+    "seed": 57396,
+    "base_angles": [
+        3.0690018622513007,
+        0.42913016087165845
+    ],
+    "variation_r": 0.05,
+    "variation_g": 0.1,
+    "variation_b": 0.15,
+    "num_qubits": 2,
+    "size": [
+        512,
+        512
+    ],
+    "date": "20250424_171214"
+}
